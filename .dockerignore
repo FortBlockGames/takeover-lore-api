@@ -1,0 +1,7 @@
+node_modules
+.env
+db/data.json
+.git
+.gitignore
+README.md
+*.tar.gz

@@ -1,0 +1,18 @@
+{
+  "sessions": {},
+  "inventoryCache": {},
+  "episodes": {
+    "ep-puf-first-strike": {
+      "id": "ep-puf-first-strike",
+      "title": "PUF: First Strike",
+      "season": 1,
+      "episode_number": 1,
+      "duration_seconds": 88,
+      "video_url": "https://cdn.playtakeover.com/lore/s01/ep01/base-render.mp4",
+      "thumbnail_url": "https://cdn.playtakeover.com/lore/s01/ep01/thumb.jpg",
+      "manifest": "{}",
+      "updated_at": 1774925464
+    }
+  },
+  "events": []
+}
